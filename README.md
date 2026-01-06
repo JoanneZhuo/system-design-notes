@@ -1,6 +1,6 @@
 # Basic Components
 
-This section covers several foundational building blocks commonly used in large-scale distributed systems and location-based services. These topics frequently appear in system design interviews.
+This section covers several foundational building blocks commonly used in large-scale distributed systems. These topics frequently appear in system design interviews.
 
 ---
 
